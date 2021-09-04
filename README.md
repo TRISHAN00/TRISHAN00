@@ -1,36 +1,31 @@
-<h1 align="center">Hi 👋, I'm Trishan Saha</h1>
-<h3 align="center">Professional Front-End Developer</h3>
+### Hi there 👋, my name is Trishan
+#### I am a MERN STACK Developer
+![I am a MERN STACK Developer](https://images.unsplash.com/photo-1607970669494-309137683be5?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=trishan00&label=Profile%20views&color=0e75b6&style=flat" alt="trishan00" /> </p>
+I am MERN STACK Developer in Bangladesh. I love to make creative applications using the Javascript programming language. I would like to learn more.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trishan00" alt="trishan00" /></a> </p>
+Skills: HTML / CSS / BOOTSTRAP / SASS / JAVASCRIPT / REACT / NODE JS / EXPRESS JS /  MONGO DB
 
-<p align="left"> <a href="https://twitter.com/developerweb0" target="blank"><img src="https://img.shields.io/twitter/follow/developerweb0?logo=twitter&style=for-the-badge" alt="developerweb0" /></a> </p>
+- 🔭 I’m currently working on Node Js 
+- 🌱 I’m currently learning Node Js and Mongo DB 
+- 👯 I’m looking to collaborate on With our Team  
+- 💬 Ask me about According to skills  
+- 📫 How to reach me: https://www.fiverr.com/trishan43?up_rollout=true 
+- ⚡ Fun fact: JavaScript is the world's most popular programming language. JavaScript was invented by Brendan Eich in 1995 and became an ECMA standard in 1997. Javascript is most well-known as the scripting language. 
 
-- 🌱 I’m currently learning **Javascript, React Js, Node Js, Express Js**
 
-- 👨‍💻 All of my projects are available at [www.trishansaha.com](www.trishansaha.com)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/TRISHAN00)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Trishan Saha/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/trishan43)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/s.trishan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/developerweb0)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](www.trishansaha.com)  
 
-- 📝 I regularly write articles on [www.trishansaha.com](www.trishansaha.com)
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-- 💬 Ask me about **Javascript, React Js, Node Js, Express Js**
+[![trophy](https://github-profile-trophy.vercel.app/?username=TRISHAN00)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 📫 How to reach me **trishansaha43@gmail.com**
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TRISHAN00)](https://github.com/anuraghazra/github-readme-stats)
 
-- ⚡ Fun fact **I always try to learn something new**
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TRISHAN00&show_icons=true)  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/developerweb0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="developerweb0" height="30" width="40" /></a>
-<a href="https://fb.com/trishan43" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="trishan43" height="30" width="40" /></a>
-<a href="https://instagram.com/s.trishan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s.trishan" height="30" width="40" /></a>
-</p>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=TRISHAN00)  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=TRISHAN00)  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=trishan00&show_icons=true&locale=en&layout=compact" alt="trishan00" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trishan00&show_icons=true&locale=en" alt="trishan00" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trishan00&" alt="trishan00" /></p>
+![Profile views](https://gpvc.arturio.dev/TRISHAN00)  
