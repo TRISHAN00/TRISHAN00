@@ -1,27 +1,137 @@
-### Hi there 👋, my name is Trishan Saha
-#### I am a MERN STACK Developer
-![I am a MERN STACK Developer](https://images.unsplash.com/photo-1517694712202-14dd9538aa97?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80)
+# Rabbil Hasan 
+### Software Engineering Manager
 
-I am MERN STACK Developer in Bangladesh. I love to make creative applications using the Javascript programming language. I would like to learn more.
+<br>
 
-Skills: HTML / CSS / BOOTSTRAP / SASS / JAVASCRIPT / REACT / NODE JS / EXPRESS JS /  MONGO DB
+<div style="display:flex">
+  <a href="https://rabbil.com/"> <img src="assets/WEBSITE.svg" alt="" height="35px" width="auto"></a>
+  <a href="https://www.linkedin.com/in/rabbilhasan/"> <img src="assets/LINKEDIN.svg" alt="" height="35px" width="auto"></a>
+  <a href="https://www.facebook.com/rabbil.rupom"><img src="assets/FACEBOOK.svg" alt="" height="35px" width="auto"></a>
+</div>
+<br>
 
-- 🔭 I’m currently working on Node Js 
-- 🌱 I’m currently learning Node Js and Mongo DB 
-- 👯 I’m looking to collaborate on With our Team  
-- 💬 Ask me about According to skills  
-- 📫 How to reach me: https://www.fiverr.com/trishan43?up_rollout=true 
-- ⚡ Fun fact: JavaScript is the world's most popular programming language. JavaScript was invented by Brendan Eich in 1995 and became an ECMA standard in 1997. Javascript is most well-known as the scripting language. 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rupomsoft&theme=highcontrast&hide_border=true&border_radius=4.3&card_width=600)](https://git.io/streak-stats)
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/TRISHAN00)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/trishan-saha-4794b3157/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/trishan43)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/s.trishan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/developerweb0)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](www.trishansaha.com)  
+### Love to code
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TRISHAN00)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display:flex">
+  <img alt="" height="60px" width="60px"   src="assets/tech/JavaScript.svg"/>
+  <img alt="" height="60px" width="60px"   src="assets/tech/React.svg"/>
+  <img alt="" height="60px" width="60px"   src="assets/tech/Vue.js.svg"/>
+  <img alt="" height="60px" width="60px"   src="assets/tech/Next.js.svg"/>
+  <img alt="" height="60px" width="60px"   src="assets/tech/Express.svg"/>
+  <img alt="" height="60px" width="60px"   src="assets/tech/MongoDB.svg"/>
+  <img alt="" height="60px" width="60px"   src="assets/tech/PHP.svg"/>
+  <img alt="" height="60px" width="60px"   src="assets/tech/Laravel.svg"/>
+  <img alt="" height="60px" width="60px"   src="assets/tech/MySQL.svg"/>
+  <img alt="" height="60px" width="60px"   src="assets/tech/Dart.svg"/>
+  <img alt="" height="60px" width="60px"   src="assets/tech/Flutter.svg"/>
+  <img alt="" height="60px" width="60px"   src="assets/tech/NET.svg"/>
+  <img alt="" height="60px" width="60px"   src="assets/tech/MicrosoftSQLServer.svg"/>
+  <img alt="" height="60px" width="60px"   src="assets/tech/PostgresSQL.svg"/>
+</div>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TRISHAN00&show_icons=true)  
- 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=TRISHAN00)  
+### Favourite Tools
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=TRISHAN00)  
+<div style="display:flex">
+<img alt="" height="60px" width="60px"  src="assets/tech/WebStorm.svg" />
+<img alt="" height="60px" width="60px"  src="assets/tech/PhpStorm.svg" />
+<img alt="" height="60px" width="60px"  src="assets/tech/VisualStudio.svg" />
+<img alt="" height="60px" width="60px"  src="assets/tech/AndroidStudio.svg" />
+<img alt="" height="60px" width="60px"  src="assets/tech/Git.svg" />
+<img alt="" height="60px" width="60px"  src="assets/tech/Azure.svg" />
+</div>
 
-![Profile views](https://gpvc.arturio.dev/TRISHAN00)  
+###  Open Source Contribution Going:
+
+<table>
+<tbody>
+<tr>
+<td>
+<div style="cursor:pointer"  href="https://github.com/rupomsoft/mern-x">
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rupomsoft&repo=mern-x&theme=dark)
+
+</div>
+</td>
+
+<td>
+<div style="cursor:pointer" href="https://github.com/rupomsoft/express-fileforge">
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rupomsoft&repo=express-fileforge&theme=dark)
+</div>
+</td>
+</tr>
+
+
+
+
+<tr>
+<td>
+<div style="cursor: pointer" href="https://github.com/rupomsoft/Next-File">
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rupomsoft&repo=Next-File&theme=dark)
+
+</div>
+
+</td>
+
+<td>
+<div style="cursor: pointer" href="https://github.com/rupomsoft/MERN-STACK-Series">
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rupomsoft&repo=MERN-STACK-Series&theme=dark)
+</div>
+</td>
+</tr>
+
+</tbody>
+
+</table>
+
+
+### About
+I am “Rabbil Hasan” the leading popular face among Bangladeshi programmers community. I am working on web & mobile application development more than 8 years. Research & development, teaching, community leading is the top most noticeable skill inside me.
+
+### Working Area
+
+1. Stock Market Trading, Online Deposit , Mutual Fund Investment system
+2. Electronic Know Your Customer (e-KYC)
+3. Core Solutions for Stock Exchange Brokerage.
+4. Third Party Business Partner Management (TPBP)
+5. Online Credit Appraisal System
+6. Investment Banking, Corporate Finance, Consumer Banking
+7. Payment System Design B2B & B2C
+
+
+###  Completed R&D Past Years:
+
+1. Best practices for Restful API & mobile application development.
+2. Best practices for single page web application development.
+3. Cross platform install-able PWA development.
+5. Bio-metric face analysis & recognition using TensorFlow
+6. Optical character recognition using Tesseract engine
+7. High performance & reusable JavaScript component development.
+8. Web application optimization to reduce server load.
+9. Web security practices
+
+
+<table>
+<tbody>
+
+<tr>
+<td>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rupomsoft&layout=donut&theme=dark)
+
+</td>
+
+<td>
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rupomsoft&show_icons=true&theme=dark)
+
+</td>
+</tr>
+
+</tbody>
+</table>
