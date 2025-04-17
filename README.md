@@ -67,4 +67,4 @@
 ### 📫 Contact Me
 
 - 📧 **trishansaha43@gmail.com**
-- 🌐 **[[Portfolio Coming Soon]](https://trishansaha.com/)**
+- 🌐 **https://trishansaha.com/**
